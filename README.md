@@ -1,4 +1,4 @@
-# greatQuotes-app
+# GreatQuotes-app
 Add your favorite quotes ! (Front/back end using Javascript) 
 
 
